@@ -25,8 +25,6 @@
 
  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-## Les presento a Snake el nuevo tripulante 
-  ## #30NitesOfCode:
   [HOLA AMIGOS ](https://www.codedex.io/@BoatCode/30-nites-of-code)  
   ![@BoatCode #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BoatCode)       
 <!---
