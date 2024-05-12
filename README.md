@@ -24,9 +24,10 @@
 - 🖥️ Me gusta mucho el autoconocimiento e investigando en la red encontre un juego que te enseña Python muy dinamico y muy chevere . Me dieron una mascota y queria compartirla en mi perfil espero que crezas muy linda mi snake 🐍
 
  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<div align="center">
   [HOLA AMIGOS ](https://www.codedex.io/@BoatCode/30-nites-of-code)  
-  ![@BoatCode #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BoatCode)       
+  ![@BoatCode #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BoatCode)
+ </div>
 <!---
 BoatCode404/BoatCode404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
