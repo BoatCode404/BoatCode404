@@ -23,6 +23,8 @@
 - ⚡ Mi Nickname signfica que soy un navegante en aguas profundas de codigos , por ahora me gusta mucho la idea   ...
 - 🖥️ Me gusta mucho el autoconocimiento e investigando en la red encontre un juego que te enseña Python muy dinamico y muy chevere . Me dieron una mascota y queria compartirla en mi perfil espero que crezas muy linda mi snake 🐍
 
+
+<div al>
  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
   [HOLA AMIGOS ](https://www.codedex.io/@BoatCode/30-nites-of-code)  
